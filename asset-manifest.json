@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/devvrat-portfolio/static/css/main.25c4d454.css",
-    "main.js": "/devvrat-portfolio/static/js/main.70f59432.js",
+    "main.js": "/devvrat-portfolio/static/js/main.388a645c.js",
     "static/css/64.bba8fa55.chunk.css": "/devvrat-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/devvrat-portfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/devvrat-portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -20,7 +20,7 @@
     "index.html": "/devvrat-portfolio/index.html",
     "static/media/talksCardBack.svg": "/devvrat-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.25c4d454.css.map": "/devvrat-portfolio/static/css/main.25c4d454.css.map",
-    "main.70f59432.js.map": "/devvrat-portfolio/static/js/main.70f59432.js.map",
+    "main.388a645c.js.map": "/devvrat-portfolio/static/js/main.388a645c.js.map",
     "64.bba8fa55.chunk.css.map": "/devvrat-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/devvrat-portfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/devvrat-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.25c4d454.css",
-    "static/js/main.70f59432.js"
+    "static/js/main.388a645c.js"
   ]
 }
